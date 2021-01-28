@@ -1,12 +1,11 @@
 {
-  "name": "activout/data-interaction-skeleton",
-  "description": "Skeleton for FED22STO Data Interaction",
+  "name": "cms-data-interaction",
+  "description": "API for FED22STO Data Interaction Module",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "David Eriksson",
-      "email": "david@activout.se"
+      "name": "Cecilia Lobo",
     }
   ],
   "require": {
